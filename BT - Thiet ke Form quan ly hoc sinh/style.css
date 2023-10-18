@@ -1,0 +1,32 @@
+h3 {
+    color: greenyellow;
+}
+
+.form {
+    width: 400px;
+    height: 200px;
+    display: flex;
+    flex-direction: row;
+}
+
+.input {
+    flex: 1;
+    margin-top: 16px;
+}
+
+input {
+    width: 100%;
+    margin: 0 0 14px 12px;
+}
+
+select {
+    margin: 0 0 14px 12px;
+}
+
+button {
+    margin-left: 12px;
+}
+
+table {
+    margin-top: 20px;
+}
